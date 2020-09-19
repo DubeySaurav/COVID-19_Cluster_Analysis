@@ -1,0 +1,4 @@
+Clust_mem,Mortality_rate,Cases_per_ML,Deaths_per_ML,Recovered_per_ML,Active_per_ML,Critical_per_ML,Tests_per_ML
+Low Mortality,0.0181,16549.0857,229.6818,12688.9369,3630.4671,43.351,107780.19
+Medium Mortality,0.0224,1562.9449,33.7694,1087.7581,441.4174,5.2403,62077.7402
+High Mortality,0.1175,4727.358,425.3985,3178.1901,1070.9101,2.0925,76792.5291
